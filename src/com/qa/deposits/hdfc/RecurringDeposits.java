@@ -8,6 +8,8 @@ public class RecurringDeposits {
 		
 		System.out.println("RD1");
 		
+		System.out.println("RD2");
+
 	}
 	
 	
