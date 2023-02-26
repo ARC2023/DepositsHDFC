@@ -24,5 +24,11 @@ public class RecurringDeposits {
 		System.out.println("Collections");
 	}
 	
+public void loanPage() {
+		
+		System.out.println("looping");
+		System.out.println("loan Page ");
+		System.out.println("Collections");
+	}
 	
 }
