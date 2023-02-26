@@ -19,7 +19,9 @@ public class RecurringDeposits {
 
 	public void homePage() {
 		
+		System.out.println("looping");
 		System.out.println("Home Page ");
+		System.out.println("Collections");
 	}
 	
 	
